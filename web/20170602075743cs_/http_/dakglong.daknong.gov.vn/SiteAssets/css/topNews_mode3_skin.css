@@ -1,0 +1,110 @@
+.homeNewsL .container_mid_main_in1{
+	width:753px;
+	height:174px;
+	overflow:hidden;	
+	background: url('https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/egovImages/bgSlide1.png') no-repeat left top;
+	margin-top:8px;
+}
+.lv_topnews_mode3_title{
+	text-transform:uppercase;padding:8px 0px 0px 40px;font-weight:bold;
+}
+.lv_topnews_mode3_title a, .lv_topnews_mode3_title a:link, .lv_topnews_mode3_title a:visited{
+	color:#fff;
+}
+.lv_topnews_mode3_title a:hover{
+	color:#fcd800;text-decoration:none;
+}
+.lv_topnews_mode3_ul_li{
+	width:120px;height:138px;overflow:hidden;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-container {
+	-moz-border-radius: 10px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-container-horizontal {			
+	padding-left:30px;		
+}
+.TopNews-jcarousel-skin-tango .jcarousel-clip-horizontal {
+	width: /*700px*/662px;padding-top:5px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item {
+/*	width: 125px;
+	height: 140px;
+	overflow: hidden;*/
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;margin-right: 17px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 10px;margin-right: 0;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item-placeholder {
+	background: #fff;color: #000
+}
+/** *  Horizontal Buttons */
+.jcarousel-next-horizontal, .jcarousel-prev-horizontal{
+	position: absolute;
+	top: 46px;
+	width: 18px;
+	height: 38px;
+	cursor: pointer;
+}
+.jcarousel-next-horizontal {
+	right: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+}
+.jcarousel-prev-horizontal {
+	left: 7px;background: transparent url(https://web.archive.org/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+}
+/*.jcarousel-next-horizontal:hover {
+	background: transparent url(/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/NextOff.png) no-repeat right top;
+}
+.jcarousel-prev-horizontal:hover {
+	background: transparent url(/web/20170628222208im_/http://dakglong.daknong.gov.vn/SiteAssets/images/PreOff.png) no-repeat left top;
+}*/
+/**/
+div.lv_topnews_mode3_ul_li_divTitle{
+	padding-top: 7px;text-align:justify;
+}
+div.lv_topnews_mode3_ul_li_divTitle a:link, div.lv_topnews_mode3_ul_li_divTitle a:visited{
+	font-size: 11px;
+	color: #333;
+	cursor: pointer;
+	display:block;
+	overflow:hidden;
+	height:27px;
+}
+div.lv_topnews_mode3_ul_li_divTitle a:hover {
+	text-decoration: none;color:#d00;
+}
+.lv_topnews_mode3_ul_li_divImg {
+	width: 140px;height: 88px;
+}
+.lv_topnews_mode3_ul_li .img-slidemenu {
+	width: 123px;height: 92px;border: 1px #117ccd solid!important;
+}
+.lv_topnews_mode3_ul_li a:hover .img-slidemenu{
+	border: 1px #60bafe solid!important;
+}
+/*
+     FILE ARCHIVED ON 22:22:08 Jun 28, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:53:57 Apr 06, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 77.671 (3)
+  esindex: 0.008
+  captures_list: 95.072
+  CDXLines.iter: 12.934 (3)
+  PetaboxLoader3.datanode: 84.672 (4)
+  exclusion.robots: 0.184
+  exclusion.robots.policy: 0.173
+  RedisCDXSource: 1.244
+  PetaboxLoader3.resolve: 39.826
+  load_resource: 52.849
+*/

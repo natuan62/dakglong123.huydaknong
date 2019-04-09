@@ -1,0 +1,41 @@
+#wrapper3
+{
+width:242px; height:180px;margin:0px auto; position: relative;
+}
+
+.sliderbutton3 {display: none;float:left; width:32px; top:134px; position: absolute;}
+.sliderbutton3 img {cursor:pointer}
+.sliderbutton3 img:hover {background:#666}
+#slider3 {float:left; position:relative; overflow:auto; width:240px; height:140px; border:2px solid #fff; background:#fff}
+#slider3 ul {position:absolute; list-style:none; top:0; left:0}
+#slider3 li {float:left; width:240px; height:140px; padding-right:10px}
+#slider3 li  img{ width:240px; height:140px; }
+
+.pagination3 {float:left; list-style:none; height:20px; margin:0}
+.pagination3 li {float:left; cursor:pointer; padding:3px 8px; background:#ccc; border:1px solid #999; margin:0 4px 0 0; text-align:center; color:#222}
+.pagination3 li:hover {background:#999; border:1px solid #bbb; color:#000}
+li.current {border:1px solid #ccc; background:#888}
+
+li#content3 {position:absolute; height:140px; padding:15px 28px 15px 18px}
+#content3 h1 {font:22px Georgia,Verdana; margin-bottom:15px; color:#036}
+/*
+     FILE ARCHIVED ON 21:18:46 Jun 28, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:54:06 Apr 06, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 29.193 (3)
+  esindex: 0.007
+  captures_list: 47.396
+  CDXLines.iter: 13.489 (3)
+  PetaboxLoader3.datanode: 37.652 (4)
+  exclusion.robots: 0.164
+  exclusion.robots.policy: 0.156
+  RedisCDXSource: 1.791
+  PetaboxLoader3.resolve: 57.649
+  load_resource: 73.807
+*/
