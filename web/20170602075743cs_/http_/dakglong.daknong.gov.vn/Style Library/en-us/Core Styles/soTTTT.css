@@ -408,8 +408,9 @@ a.print{
 	padding-top:10px;
 	text-align:center;
 	height:25px;
-	background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170628233211im_/http://dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll 1px 0;
+	background:rgba(0, 0, 0, 0) url("https://web.archive.org/web/20170628233211im_/http/dakglong.daknong.gov.vn/imgSoTTTT/navi.jpg") no-repeat scroll 1px 0;
 	margin-left:-1px;
+	    background-color: blue;
 }
 div.Footer-menu a{
 	padding:0px 13px 0px 12px;
