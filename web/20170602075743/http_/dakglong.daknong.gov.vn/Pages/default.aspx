@@ -117,23 +117,7 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 	
 	
 	
-<noscript><div class="noindex">You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
-<div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
-	<a id="linkTurnOnAcc" href="default.aspx#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
-	Turn on more accessible mode</a>
-</div>
-<div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
-	<a id="linkTurnOffAcc" href="default.aspx#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
-	Turn off more accessible mode</a>
-</div>
-<div class="s4-notdlg s4-skipribbonshortcut noindex">
-	<a href="javascript:;" onclick="javascript:this.href='#startNavigation';" class="ms-SkiptoNavigation" accesskey="Y">
-	Skip Ribbon Commands</a>
-</div>
-<div class="s4-notdlg noindex">
-	<a href="javascript:;" onclick="javascript:this.href='#mainContent';" class="ms-SkiptoMainContent" accesskey="X">
-	Skip to main content</a>
-</div>
+
 <a id="HiddenAnchor" href="javascript:;" style="display:none;"></a>
 
 <div id="s4-ribbonrow" class="s4-pr s4-ribbonrowhidetitle1" style="display:none">
