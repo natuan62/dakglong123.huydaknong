@@ -117,7 +117,13 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 }
 a{
 	text-decoration: none !important;
+	font-family:Arial, Helvetica, sans-serif;
 }
+span{
+	text-decoration: none !important;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
 #cpanel img{
 	margin: 0px auto;padding: 10px 0px;border:0px
 }
