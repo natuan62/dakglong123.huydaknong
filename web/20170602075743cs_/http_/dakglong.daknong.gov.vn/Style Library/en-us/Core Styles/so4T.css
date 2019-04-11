@@ -121,7 +121,7 @@ div.dRight{
 div.logoS
 {
 	height:150px;
-	background:url("https://web.archive.org/web/20170629024311im_/http://dakglong.daknong.gov.vn/imgSoTTTT/banner1.jpg");
+	background: url("/img/banner.png") no-repeat 1px 0px;
 }
 div.ms-logo a{
 	text-indent:-9999px;

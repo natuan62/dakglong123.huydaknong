@@ -76,6 +76,8 @@ body.soTTTT td, body.soTTTT a, body.soTTTT a:link,.soTTTT .ms-WPBody,span#tP,#ta
 ,.div_SoKiHieu,.searchLB,b.lv_description_mode1,.ms-news-header td.Time,.Other li a, .Other li a:link,ul#topnav li a,.ui-tabs-hide,
 table.tb-tracuu td, h3, .dv-input select, dv-input input, .title_VBPL, table.ds_VBPL td{
 	font-family:Arial!important;font-size:12px!important
+	-moz-border-radius: 10px;
+-webkit-border-radius: 5px;
 }
 body.soTTTT{
 	color:#333;
@@ -104,7 +106,7 @@ div.ms-PartSpacingVertical{
 }
 .logoS{
 	height:106px;
-	background: url("https://web.archive.org/web/20170628233211im_/http://dakglong.daknong.gov.vn/imgSoTTTT/banner.jpg") no-repeat 1px 0px;	
+	background: url("/img/banner.png") no-repeat 1px 0px;	
 }
 .ms-logo a{
 	text-indent:-9999px;
@@ -784,6 +786,8 @@ div#ppy1 .ppy-outer{
 	border:1px #dfe0df solid;
 	border-bottom:0px;
 	background-color:white;
+	moz-border-radius: 10px;
+-webkit-border-radius: 10px;
 }
 div.title-album a{
 	padding-left:38px;
@@ -1411,6 +1415,8 @@ div.ms-navItem a:hover{
 .container_top1{
 	overflow:hidden;
 	background:#fff;
+	moz-border-radius: 4px;
+-webkit-border-radius: 7px;
 }
 .hRight-Zone .container_top_left1{
 	height:32px;
@@ -2406,6 +2412,7 @@ div.srch-Page{
 	font:bold 12px arial;
 	text-transform:uppercase;	
 	padding-left:15px;
+	color:#134c7f;
 }
 .linkweb-cnt {	
 	height:100%;
