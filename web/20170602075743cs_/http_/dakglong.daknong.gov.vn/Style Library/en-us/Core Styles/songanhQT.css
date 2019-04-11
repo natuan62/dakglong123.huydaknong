@@ -115,6 +115,9 @@ div.dk_storeGridView table.ms-listviewtable tr.td_paging td{
 #cpanel div.icon a:hover{
 	background:url("../../../../../../20170629010032im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/bgHover.png") no-repeat;color:#1866b6
 }
+a{
+	text-decoration: none !important;
+}
 #cpanel img{
 	margin: 0px auto;padding: 10px 0px;border:0px
 }
