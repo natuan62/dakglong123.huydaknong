@@ -246,6 +246,7 @@ p.hot-content1{
 	display:block;
 	padding:8px 10px 0px 10px;
 	color:#333;
+	font-size: 14px;
 }
 div#UnionNews_menu_mode2 div.Union_block{
 	width:137px;
@@ -256,6 +257,7 @@ div#UnionNews_menu_mode2 div.Union_block a, div#UnionNews_menu_mode2 div.Union_b
 	color:#333!important;
 	background-image:none;
 	padding-left:0px;
+	font-size: 12px;
 }
 div#UnionNews_menu_mode2 div.Union_block a:hover{
 	color:#d00!important;
@@ -457,8 +459,8 @@ div.news-tab-thumb{
 	width:280px;
 }
 .ui-tabs div.news-tab-thumb-item-title-0 a:link,.ui-tabs div.news-tab-thumb-item-title-0 a:visited{
-	color:#ae0014;
-}
+	color:#mediumslateblue;
+
 .ui-tabs div.news-tab-thumb-item-title-0 a:hover{
 	color:#f00;
 }
