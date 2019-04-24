@@ -232,7 +232,7 @@ div.union_main_image div.Union_desc{
 }
 div.union_main_image div.Union_desc h2{
 	height:45px;
-	margin-top:-45px;
+	margin-top:-30px;
 	display:block;
 	background: url("../../../../../../20170629024311im_/http%253A/dakglong.daknong.gov.vn/imgSoTTTT/images/bgHotTitle.png") repeat 0 0;
 	text-align:center;
@@ -263,7 +263,7 @@ div#UnionNews_menu_mode2 div.Union_block a:hover{
 	color:#d00!important;
 }
 div#UnionNews_menu_mode2 div.union_image_thumb ul li{
-	padding:14px 7px 2px;
+	padding:14px 10px 2px 4px;
 	background-image:none;
 }
 div#UnionNews_menu_mode2 table.lv_union_table_menuheader{
