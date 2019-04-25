@@ -4,7 +4,7 @@ div div.ms-PartSpacingVertical{
 }
 div#s4-workspace1{
 	width:auto;
-	background-color:#8BB774;
+	background-color: #1a6d9f29
 }
 li div.main-level a, li div.main-level a:link, li div.main-level a:visited{
 }
@@ -442,6 +442,7 @@ ul.ui-tabs-nav li.ui-tabs-selected a:link{
 ul.ui-tabs-nav li.ui-tabs-selected{
 	background-image:none;
 	background-color:#cc0000;
+	-webkit-border-radius: 7px;
 }
 ul.ui-tabs-nav li.ui-tabs-selected + li, ul.ui-tabs-nav li.tabs-0{
 	background-image:none;

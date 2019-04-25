@@ -1485,6 +1485,7 @@ div.ms-navItem a:hover{
 }
 .news-tab-thumb-item-title-0{
 	padding-bottom:4px;
+	font-size: 14px;
 }
 div.news-tab-thumb-item-title-0 a, div.news-tab-thumb-item-title-0 a:link, div.news-tab-thumb-item-title-0 a:visited{
 	font-weight:bold;
@@ -1602,7 +1603,7 @@ div.news-tab-li-item a:hover{
 
 table td.TitleFront{
 	padding-top:0px;
-	padding-bottom:7px;
+	padding-bottom:15px;
 }
 td.TitleFront a, td.TitleFront a:link{
 	font-weight:bold;
